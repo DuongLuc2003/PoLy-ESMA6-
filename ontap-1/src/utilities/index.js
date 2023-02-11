@@ -1,0 +1,1 @@
+export const myName = "Duong Cong Luc";
